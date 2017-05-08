@@ -1,10 +1,10 @@
 # second
 ## 1.	个人主页上的“+”下拉菜单可创建的四种类别分别有？分别的意思？
 
-New repository新存储库 、 import repository导入存储库、 new gist新要点、 new organization新组织
+*New repository新存储库 、 import repository导入存储库、 new gist新要点、 new organization新组织*
 
 ## 2.	如何能将仓库中的html文件直接解析成页面？
-
+Setting->master branch
 
 ## 3.	如何删除仓库
 登陆后选择你需要删除的仓库；在仓库的主界面的右边菜单栏选择settings；进入设置页面，一直往下拉，会发现一个红色的危险地区（danger zone）找到Delete this repostory ；点击delete弹出确认页面，要自己输入一次名字进行确认删除；会提示删除成功
